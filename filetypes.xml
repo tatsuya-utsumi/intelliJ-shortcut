@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="gpx" type="XML" />
+      <mapping ext="xcscheme" type="XML" />
+    </extensionMap>
+  </component>
+</application>
