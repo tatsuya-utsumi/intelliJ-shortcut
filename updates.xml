@@ -1,9 +1,0 @@
-<application>
-  <component name="UpdatesConfigurable">
-    <option name="LAST_BUILD_CHECKED" value="OC-221.5921.25" />
-    <option name="LAST_TIME_CHECKED" value="1657381976950" />
-    <pluginHosts>
-      <item value="https://plugins.jetbrains.com/plugins/list?channel=appcode&amp;pluginId=org.jetbrains.kotlin" />
-    </pluginHosts>
-  </component>
-</application>
